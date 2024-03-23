@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/wrapper/maven-wrapper.properties
+/direct-exchange/.mvn/wrapper/maven-wrapper.properties
+/fanoutExchange/.mvn/wrapper/maven-wrapper.properties
+/topic-exchange/.mvn/wrapper/maven-wrapper.properties
+/direct-exchange/mvnw
+/fanoutExchange/mvnw
+/topic-exchange/mvnw
+/mvnw
+/direct-exchange/mvnw.cmd
+/fanoutExchange/mvnw.cmd
+/topic-exchange/mvnw.cmd
+/mvnw.cmd
